@@ -1,16 +1,13 @@
-### Hi there 👋
+## **Hello There**
 
-<!--
-**YappyDu/YappyDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm 3rd yr student
+# BSIT
+# Central Philippine University
 
-Here are some ideas to get you started:
+# Five facts about myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 1. A is for Adorable
+# 2. H is for Handsome
+# 3. K is for Kindness
+# 4. 0 is for Optimistic
+# 5. L is for Lovable
